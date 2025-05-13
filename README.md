@@ -1,2 +1,2 @@
 # portfolio-site
-htmlとcssを使ったポートフォリオサイトです。
+htmlとcssを使ったポートフォリオサイト。
